@@ -12,7 +12,7 @@ Some force must be applied to move the object to the desired position. Graph wit
 
 We use a PID controller. The controller gives a signal (what force should be applied over time) to reach the desired value (knowing only the current value and the desired one).
 
-## $K_p$:
+## Kp:
 
 ![](./img/PID_0.0_0.0_0.0.svg ':size=40%')
 ![](./img/PID_0.5_0.0_0.0.svg ':size=40%')
@@ -21,14 +21,14 @@ We use a PID controller. The controller gives a signal (what force should be app
 ![](./img/PID_5.0_0.0_0.0.svg ':size=40%')
 ![](./img/PID_10.0_0.0_0.0.svg ':size=40%')
 
-## $K_i$:
+## Ki:
 
 ![](./img/PID_5.0_0.5_0.0.svg ':size=40%')
 ![](./img/PID_5.0_1.0_0.0.svg ':size=40%')
 ![](./img/PID_5.0_3.0_0.0.svg ':size=40%')
 ![](./img/PID_5.0_5.0_0.0.svg ':size=40%')
 
-## $K_d$:
+## Kd:
 
 ![](./img/PID_5.0_3.0_0.5.svg ':size=40%')
 ![](./img/PID_5.0_3.0_1.0.svg ':size=40%')
