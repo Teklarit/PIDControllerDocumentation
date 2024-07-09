@@ -8,6 +8,11 @@
 
 ![](./img/UE_PID_BP_Overview.png ':size=50%')
 
+## UE plugin:
+
+- [PIDController (UE plugin) - Github](https://github.com/Teklarit/PIDController.git)
+- [PIDController (UE plugin) - Marketplace]()
+
 ## Examples:
 
 - Tank turret rotation with PID controller

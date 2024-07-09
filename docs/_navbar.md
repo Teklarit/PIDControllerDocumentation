@@ -1,6 +1,6 @@
 <!-- /_navbar.md -->
 <!--
 -->
-* :alien: Translations
+* :alien: Language
     * **:us: EN**
-    * [:ru: Русский](/ru/)
+    * [:ru: RU](/ru/)
