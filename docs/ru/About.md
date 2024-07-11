@@ -7,7 +7,7 @@
 ## UE плагин:
 
 - [PIDController (UE plugin) - Github](https://github.com/Teklarit/PIDController.git)
-- [PIDController (UE plugin) - Marketplace]()
+- [PIDController (UE plugin) - Marketplace](https://www.unrealengine.com/marketplace/en-US/product/pid-controller-01)
 
 ## Примеры:
 
