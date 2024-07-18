@@ -4,12 +4,13 @@ Igor Baykov aka Teklarit
 
 - Telegram: [Teklarit](https://t.me/Teklarit)
 
-## UE plugin:
+## Links:
+### UE plugin:
 
 - [PIDController (UE plugin) - Github](https://github.com/Teklarit/PIDController.git)
 - [PIDController (UE plugin) - Marketplace](https://www.unrealengine.com/marketplace/en-US/product/pid-controller-01)
 
-## Examples:
+### Examples:
 
 - Tank turret rotation with PID controller
     - [Overview - Youtube](https://youtu.be/8oIjRFTFtcQ)
