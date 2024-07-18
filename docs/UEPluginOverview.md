@@ -21,7 +21,7 @@ FPIDCore PID(3.0f, 1.0f, 2.5f);
 ```
 4. Functions and variables:
 ```unrealscript
-PID.Tick(ErrorValue, Dt);
+PID.Tick(Difference, Dt);
 PID.GetSignalValue();
 PID.Reset();
 PID.Kp;
@@ -39,7 +39,12 @@ PID Component and PID Object use functions from interface:
 
 !> Some features (PID variable) will be aviable in version 1.1! **WorkInProgress**
 1. Create variable with the `PIDCore` type.
+
+![](./img/PID_Variable.png ':size=100%')
+
 2. Use functions from BlueprintLibrary:
+
+![](./img/PID_Variable_Overview.png ':size=50%')
 
 ## Links:
 ### UE plugin:
