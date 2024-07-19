@@ -40,7 +40,7 @@ PID Component and PID Object use functions from interface:
 !> Some features (PID variable) will be aviable in version 1.1! **WorkInProgress**
 1. Create variable with the `PIDCore` type.
 
-![](./img/PID_Variable.png ':size=100%')
+![](./img/PID_Variable.png ':size=50%')
 
 2. Use functions from BlueprintLibrary:
 
