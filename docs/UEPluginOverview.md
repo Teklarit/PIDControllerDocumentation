@@ -37,7 +37,6 @@ PID Component and PID Object use functions from interface:
 
 #### PID Variable
 
-!> Some features (PID variable) will be aviable in version 1.1! **WorkInProgress**
 1. Create variable with the `PIDCore` type.
 
 ![](./img/PID_Variable.png ':size=50%')
@@ -46,14 +45,4 @@ PID Component and PID Object use functions from interface:
 
 ![](./img/PID_Variable_Overview.png ':size=50%')
 
-## Links:
-### UE plugin:
-
-- [PIDController (UE plugin) - Github](https://github.com/Teklarit/PIDController.git)
-- [PIDController (UE plugin) - Marketplace](https://www.unrealengine.com/marketplace/en-US/product/pid-controller-01)
-
-### Examples:
-
-- Tank turret rotation with PID controller
-    - [Overview - Youtube](https://youtu.be/8oIjRFTFtcQ)
-    - [Example project - Github](https://github.com/Teklarit/TankTurretPIDExample.git)
+[filename](./Links.md ':include')
