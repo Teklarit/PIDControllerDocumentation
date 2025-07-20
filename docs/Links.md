@@ -2,7 +2,7 @@
 
 ### Docs:
 
-- [:en: EN](https://teklarit.github.io/PIDControllerDocumentation/#/)
+- [:us: EN](https://teklarit.github.io/PIDControllerDocumentation/#/)
 - [:ru: RU](https://teklarit.github.io/PIDControllerDocumentation/#/ru/)
 
 ### UE plugin:

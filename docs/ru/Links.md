@@ -2,8 +2,8 @@
 
 ### Документация:
 
-- [:en: EN](https://teklarit.github.io/PIDControllerDocumentation/#/)
-- [:ru :RU](https://teklarit.github.io/PIDControllerDocumentation/#/ru/)
+- [:us: EN](https://teklarit.github.io/PIDControllerDocumentation/#/)
+- [:ru: RU](https://teklarit.github.io/PIDControllerDocumentation/#/ru/)
 
 ### UE плагин:
 
