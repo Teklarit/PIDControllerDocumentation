@@ -2,8 +2,8 @@
 
 ### Docs:
 
-- [EN](https://teklarit.github.io/PIDControllerDocumentation/#/)
-- [RU](https://teklarit.github.io/PIDControllerDocumentation/#/ru/)
+- [:en: EN](https://teklarit.github.io/PIDControllerDocumentation/#/)
+- [:ru: RU](https://teklarit.github.io/PIDControllerDocumentation/#/ru/)
 
 ### UE plugin:
 
@@ -15,3 +15,4 @@
 - Tank turret rotation with PID controller
     - [Overview - Youtube](https://youtu.be/8oIjRFTFtcQ)
     - [Example project - Github](https://github.com/Teklarit/TankTurretPIDExample.git)
+	
