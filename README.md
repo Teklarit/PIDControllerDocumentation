@@ -1,4 +1,4 @@
 # Docs
 
-- [EN](https://teklarit.github.io/PIDControllerDocumentation/#/)
-- [RU](https://teklarit.github.io/PIDControllerDocumentation/#/ru/)
+- [:us: EN](https://teklarit.github.io/PIDControllerDocumentation/#/)
+- [:ru: RU](https://teklarit.github.io/PIDControllerDocumentation/#/ru/)
